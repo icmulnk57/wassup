@@ -1,0 +1,7 @@
+1.npm init -y
+2.make file i.e client.js and css.style and in root folder index.html
+3.dependencies download
+.npm install express
+.npm install nodemon
+.now create server in server.js
+4.frond end part
